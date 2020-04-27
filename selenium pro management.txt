@@ -21,4 +21,6 @@ github concepts:
 8  testcase 8 
 9  testcase 9
 
+10 testcase subclass 1.1 
+
 
